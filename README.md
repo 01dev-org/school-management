@@ -39,7 +39,3 @@ A simple **TypeScript** console-based school management system for handling stud
 Contributions are welcome! Fork the repo, create a branch, and submit a PR. 🙌  
 
 📌 **License**: MIT  
-
----
-
-Tu peux ajuster la description selon les fonctionnalités précises de ton projet. 😊
