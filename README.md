@@ -1,7 +1,3 @@
-D'accord ! Voici une description plus adaptée pour un projet **TypeScript** en mode console, sans base de données :  
-
----
-
 # 🎓 School Management System  
 
 A simple **TypeScript** console-based school management system for handling student, teacher, classroom, level and courses. 🚀  
@@ -28,7 +24,7 @@ A simple **TypeScript** console-based school management system for handling stud
    ```
 3. **Compile the TypeScript files**:  
    ```bash
-   npm run build
+   npm run build:ts
    ```
 4. **Run the application**:  
    ```bash
