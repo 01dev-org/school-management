@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                // Version JavaScript à générer
+    "module": "commonjs",           // Module system (utilisé dans Node.js)
+    "strict": true,                 // Active les vérifications strictes
+    "esModuleInterop": true,        // Facilite l'importation des modules CommonJS
+    "outDir": "./dist",             // Dossier de sortie des fichiers compilés
+    "rootDir": "./src",             // Dossier source des fichiers TypeScript
+    "skipLibCheck": true            // Ignore les vérifications des types dans les fichiers de bibliothèque
+  },
+  "include": ["src/**/*"],          // Inclure tous les fichiers dans le dossier `src`
+  "exclude": ["node_modules"]       // Exclure les fichiers dans `node_modules`
+}
